@@ -1,4 +1,4 @@
-import chunk from "../src/array/chunk";
+import chunk from "../../src/array/chunk";
 
 const array = ["a", "b", "c", "d"];
 test("should chunk 2", () => {

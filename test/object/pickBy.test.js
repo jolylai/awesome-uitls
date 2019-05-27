@@ -1,4 +1,4 @@
-import pickBy from "../src/object/pickBy";
+import pickBy from "../../src/object/pickBy";
 
 const object = { a: 1, b: null, c: 3, d: false, e: undefined };
 

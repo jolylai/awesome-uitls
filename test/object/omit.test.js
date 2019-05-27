@@ -1,4 +1,4 @@
-import omit from "../src/object/omit";
+import omit from "../../src/object/omit";
 
 const object = { a: 1, b: "2", c: 3 };
 

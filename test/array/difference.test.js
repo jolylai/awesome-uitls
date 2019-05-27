@@ -1,4 +1,4 @@
-import difference from "../src/array/difference";
+import difference from "../../src/array/difference";
 
 test("difference", () => {
   const array = [2, 1];
