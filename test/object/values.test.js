@@ -1,4 +1,4 @@
-import values from "../src/object/values";
+import values from "../../src/object/values";
 
 const object = { one: 1, two: 2, three: 3 };
 

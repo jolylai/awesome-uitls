@@ -1,4 +1,4 @@
-import flatten from "../src/array/flatten";
+import flatten from "../../src/array/flatten";
 
 const array = [1, [2, [3]]];
 test("flatten [1, [2, [3]]] to [1,2,[3]]", () => {
